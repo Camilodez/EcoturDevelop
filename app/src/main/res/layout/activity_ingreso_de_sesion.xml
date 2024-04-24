@@ -92,7 +92,8 @@
                         android:singleLine="true"
                         android:text="@string/lbl_iniciar_sesi_n"
                         android:textAllCaps="false"
-                        style="@style/btnSolidRounded" tools:text="@string/lbl_iniciar_sesi_n"/>
+                        style="@style/btnSolidRounded" tools:text="@string/lbl_iniciar_sesi_n"
+                        />
                     <androidx.appcompat.widget.AppCompatButton
                         android:ellipsize="end" android:gravity="center"
                         android:id="@+id/btnRegistrarse"

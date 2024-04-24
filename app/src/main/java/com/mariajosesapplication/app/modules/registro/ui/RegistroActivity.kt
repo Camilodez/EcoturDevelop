@@ -3,6 +3,8 @@ package com.mariajosesapplication.app.modules.registro.ui
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import androidx.activity.viewModels
 import com.mariajosesapplication.app.R
 import com.mariajosesapplication.app.appcomponents.base.BaseActivity
@@ -17,9 +19,11 @@ class RegistroActivity : BaseActivity<ActivityRegistroBinding>(R.layout.activity
   override fun onInitialized(): Unit {
     viewModel.navArguments = intent.extras?.getBundle("bundle")
     binding.registroVM = viewModel
+
   }
 
-  override fun setUpClicks(): Unit {
+  override fun setUpClicks() {
+    TODO("Not yet implemented")
   }
 
   companion object {
@@ -33,3 +37,9 @@ class RegistroActivity : BaseActivity<ActivityRegistroBinding>(R.layout.activity
     }
   }
 }
+
+
+
+
+
+
