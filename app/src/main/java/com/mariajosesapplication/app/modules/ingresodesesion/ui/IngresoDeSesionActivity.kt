@@ -30,13 +30,25 @@ class IngresoDeSesionActivity :
 
       }
 
+    binding.btnRegistrarse.setOnClickListener(){
+      registrarse();
+    }
+
 
 
 
     }
 
+  private fun registrarse(){
 
-    private fun iniciarSesion(){
+    val intent = Intent(this, RegistroActivity::class.java)
+    startActivity(intent)
+  }
+
+
+
+
+  private fun iniciarSesion(){
 
       val intent = Intent(this, PanelGeneralActivity::class.java)
       startActivity(intent)

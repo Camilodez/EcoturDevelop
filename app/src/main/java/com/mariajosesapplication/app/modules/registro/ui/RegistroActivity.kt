@@ -9,6 +9,7 @@ import androidx.activity.viewModels
 import com.mariajosesapplication.app.R
 import com.mariajosesapplication.app.appcomponents.base.BaseActivity
 import com.mariajosesapplication.app.databinding.ActivityRegistroBinding
+import com.mariajosesapplication.app.modules.panelgeneral.ui.PanelGeneralActivity
 import com.mariajosesapplication.app.modules.registro.`data`.viewmodel.RegistroVM
 import kotlin.String
 import kotlin.Unit
@@ -20,6 +21,16 @@ class RegistroActivity : BaseActivity<ActivityRegistroBinding>(R.layout.activity
     viewModel.navArguments = intent.extras?.getBundle("bundle")
     binding.registroVM = viewModel
 
+
+    binding.btnRegistrarse.setOnClickListener(){
+      panelcentral();
+    }
+
+  }
+
+  private fun panelcentral(){
+    val intent = Intent(this, PanelGeneralActivity::class.java)
+    startActivity(intent)
   }
 
   override fun setUpClicks() {

@@ -5,6 +5,7 @@ import androidx.activity.viewModels
 import com.mariajosesapplication.app.R
 import com.mariajosesapplication.app.appcomponents.base.BaseActivity
 import com.mariajosesapplication.app.databinding.ActivityPanelGeneralBinding
+import com.mariajosesapplication.app.modules.camara.ui.CamaraActivity
 import com.mariajosesapplication.app.modules.caracteristicasespecie.ui.CaracteristicasespecieActivity
 import com.mariajosesapplication.app.modules.comunidadgeneral.ui.ComunidadGeneralActivity
 import com.mariajosesapplication.app.modules.ecodex.ui.EcodexActivity
@@ -43,6 +44,16 @@ class PanelGeneralActivity :
       modificarUsuario();
     }
 
+    binding.imageBinocularsOne.setOnClickListener(){
+      TomarFoto();
+
+    }
+
+  }
+
+  private fun TomarFoto(){
+    val intent = Intent(this, CamaraActivity ::class.java)
+    startActivity(intent)
   }
 
 
