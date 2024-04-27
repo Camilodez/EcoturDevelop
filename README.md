@@ -13,10 +13,19 @@
   
 
 - **Diario de Viaje:** Los usuarios podrán registrar sus experiencias y descubrimientos en el parque Awaq. Podrán llevar un diario digital de su viaje, donde podrán documentar avistamientos únicos a través de la Ecodex y otros momentos memorables para crear una experiencia inolvidable.
+  ![image](https://github.com/Camilodez/EcoturDevelop/assets/101293233/fb13001f-fd32-43a3-ae99-43062dae8438)
+
+
+  ![image](https://github.com/Camilodez/EcoturDevelop/assets/101293233/da403702-5589-4668-a95c-150b03438052)
+
+
+  
   
 
 - **Red Social:** Esta funcionalidad permitirá a los usuarios compartir sus experiencias con otros visitantes del parque y reaccionar a sus publicaciones. Podrán interactuar a través de comentarios, "me gusta" y compartir sus propios relatos y fotos.
+  ![image](https://github.com/Camilodez/EcoturDevelop/assets/101293233/d72b0f04-df96-4d1f-ba58-b9a08d081b51)
 
+  
 
 
 
