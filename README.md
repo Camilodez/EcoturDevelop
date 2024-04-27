@@ -9,7 +9,7 @@
 
 
 
-- **Ecodex:**  Inspirada en la "pokedex" del popular anime Pokémon, nuestra aplicación permite a los usuarios tomar fotos de la flora y fauna del parque. Gracias a la API de Google Vision, la aplicación identificará el organismo en la imagen y proporcionará información detallada, como su nombre común, nombre científico, taxonomía, y otros datos relevantes. **(por implementar)**
+- **Ecodex:**  Inspirada en la "pokedex" del popular anime Pokémon, nuestra aplicación permite a los usuarios tomar fotos de la flora y fauna del parque. Gracias a la API de Google Vision, la aplicación identificará el organismo en la imagen y proporcionará información detallada al usuario, como el nombre común del organismo, nombre científico, taxonomía, y otros datos relevantes. **(por implementar)**
   
 
 - **Diario de Viaje:** Los usuarios podrán registrar sus experiencias y descubrimientos en el parque Awaq. Podrán llevar un diario digital de su viaje, donde podrán documentar avistamientos únicos a través de la Ecodex y otros momentos memorables para crear una experiencia inolvidable.
