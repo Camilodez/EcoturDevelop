@@ -1,5 +1,9 @@
 
-# maria_jose_s_application
+# Ecotur Awaq
+
+## Funcionalidades principales
+
+**Ecodex:** Similar a la "pokedex" del conocido anime pokémon, con nuestra app podrás tomar fotos de la flora y fauna que encuentres y mediante el uso de la API google Vision el sistema reconocerá al organismo de la foto y te brindará información detallada acerca de este, como nombre, nombre científico, taxonomía, entre otros. **(por implementar)**
 
 Built with AndroidX Support
 
