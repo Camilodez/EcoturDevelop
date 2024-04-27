@@ -1,6 +1,8 @@
 
 # Ecotur Awaq
 
+
+
 ## Funcionalidades principales
 
 - **Ecodex:**  Inspirada en la "pokedex" del popular anime Pokémon, nuestra aplicación permite a los usuarios tomar fotos de la flora y fauna del parque. Gracias a la API de Google Vision, la aplicación identificará el organismo en la imagen y proporcionará información detallada, como su nombre común, nombre científico, taxonomía, y otros datos relevantes. **(por implementar)**
@@ -8,6 +10,8 @@
 - **Diario de Viaje:** Los usuarios podrán registrar sus experiencias y descubrimientos en el parque Awaq. Podrán llevar un diario digital de su viaje, donde podrán documentar avistamientos únicos a través de la Ecodex y otros momentos memorables para crear una experiencia inolvidable.
 
 - **Red Social:** Esta funcionalidad permitirá a los usuarios compartir sus experiencias con otros visitantes del parque y reaccionar a sus publicaciones. Podrán interactuar a través de comentarios, "me gusta" y compartir sus propios relatos y fotos.
+
+
 
 
 ## Información para programadores:
