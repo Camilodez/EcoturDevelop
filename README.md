@@ -20,7 +20,7 @@
 
 
 
-##Cómo ejecutar la app?
+## Cómo ejecutar la app?
 
 - **Opción 1 (modo fácil):**
   * Descarga el archivo Ecotur.apk en tu teléfono
